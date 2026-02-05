@@ -63,34 +63,40 @@ npm install
 npm run dev
 Frontend runs at: http://localhost:5173
 ```
-🔑 Environment Variables
-Create a .env file in backend/
-MONGO_URI=mongodb://127.0.0.1:27017/roadblock
-JWT_SECRET=your_secret_key
-PORT=5000
+---
+🔑 Environment Variables Create a .env file in backend/
+- MONGO_URI=mongodb://127.0.0.1:27017/roadblock
+- JWT_SECRET=your_secret_key
+- PORT=5000
+---
 🛠️ API Endpoints
-POST /api/auth/register → Register new user
-POST /api/auth/login → Login and receive JWT
-GET /api/games → Fetch all games
-POST /api/games → Create a new game
+- POST /api/auth/register → Register new user
+- POST /api/auth/login → Login and receive JWT
+- GET /api/games → Fetch all games
+- POST /api/games → Create a new game
+---
 🎨 Frontend Styling
 TailwindCSS for modern, responsive UI
 Gradient buttons, rounded cards, hover animations
 Dark mode‑friendly design
+---
 🤝 Contributing
 Fork the repo
 Create a feature branch (git checkout -b feature/my-feature)
 Commit changes (git commit -m 'Add new feature')
 Push branch (git push origin feature/my-feature)
 Open a Pull Request
+---
 📜 License
 This project is licensed under the MIT License — free to use, modify, and distribute.
+---
 🗺️ Roadmap
 [ ] Lua runtime integration (sandboxed execution)
 [ ] Virtual currency + marketplace
 [ ] Multiplayer support via WebSockets
 [ ] Plugin system for community extensions
 [ ] Moderation dashboard
+---
 🙌 Acknowledgements
 Inspired by Roblox, built with open‑source technologies:
 React
