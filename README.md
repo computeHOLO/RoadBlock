@@ -56,17 +56,15 @@ npm install
 node src/server.js
 Backend runs at: http://localhost:5000
 Frontend Setup
-### EJJE
-
-
+```
+### Frontend Setup
 ```bash
-cd frontend
 npm install
 npm run dev
 Frontend runs at: http://localhost:5173
+```
 🔑 Environment Variables
-Create a .env file in backend/:
-Code
+Create a .env file in backend/
 MONGO_URI=mongodb://127.0.0.1:27017/roadblock
 JWT_SECRET=your_secret_key
 PORT=5000
