@@ -24,21 +24,20 @@ RoadBlock is an open‑source platform inspired by Roblox. It allows creators to
 ---
 
 ## 📂 Project Structure
-roadblock/
-backend/
-src/
-models/        # Mongoose models (User, Game)
-routes/        # Express routes (auth, games)
-server.js            # Entry point
-frontend/
-src/
-components/    # Navbar, GameCard, etc.
-pages/         # Home, Games, Login, Register
-services/      # API wrapper
-App.jsx                # Router setup
-index.jsx            # Entry point
-tailwind.config.js
-Code
+- roadblock/
+- backend/
+- src/
+- models/        # Mongoose models (User, Game)
+- routes/        # Express routes (auth, games)
+- server.js            # Entry point
+- frontend/
+- src/
+- components/    # Navbar, GameCard, etc.
+- pages/         # Home, Games, Login, Register
+- services/      # API wrapper
+- App.jsx                # Router setup
+- index.jsx            # Entry point
+- tailwind.config.js
 
 ---
 
