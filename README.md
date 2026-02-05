@@ -4,9 +4,9 @@ markdown
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Version](https://img.shields.io/badge/version-0.1.0-orange)
-![Contributors](https://img.shields.io/github/contributors/yourusername/roadblock)
-![Stars](https://img.shields.io/github/stars/yourusername/roadblock?style=social)
-![Issues](https://img.shields.io/github/issues/yourusername/roadblock)
+![Contributors](https://img.shields.io/github/contributors/computeHOLO/roadblock)
+![Stars](https://img.shields.io/github/stars/computeHOLO/roadblock?style=social)
+![Issues](https://img.shields.io/github/issues/computeHOLO/roadblock)
 
 RoadBlock is an open‑source platform inspired by Roblox. It allows creators to upload Lua‑based games, players to discover and play them, and communities to connect through profiles, chat, and a virtual economy.
 
